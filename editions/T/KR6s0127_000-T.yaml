@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0127/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三論宗章疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2179.xml
+    old_id: T55n2179
+hash: sha256:c02d3b570200a0e21d52aa26b55522804574015015a26b894faf4f0baa9a8552
