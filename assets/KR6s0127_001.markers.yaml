@@ -7,6 +7,8 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR6s0127_T_001-1137b14, ed: T, 'n': 1137b14}
   - {type: xml-element, offset: 0, content: '', id: KR6s0127_T_001-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': author}}
   - {type: indent, offset: 8, content: 　, id: KR6s0127_T_001-bkkind1}
+  - {type: substitution, offset: 10, original: 勅, replacement: 敕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20718}}
+  - {type: substitution, offset: 11, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: xml-element, offset: 13, content: '', id: KR6s0127_T_001-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': author}}
   - {type: line-break, offset: 13, content: '', id: KR6s0127_T_001-1137b15, ed: T, 'n': 1137b15}
   - {type: line-break, offset: 15, content: '', id: KR6s0127_T_001-1137b16, ed: T, 'n': 1137b16}
@@ -387,4 +389,4 @@ markers:
   - {type: xml-element, offset: 771, content: '', id: itemT55p1138b0301_end, name: item, role: close, attrs: {'xml:id': itemT55p1138b0301}}
   - {type: xml-element, offset: 771, content: '', id: KR6s0127_T_001-bkkxmlele144, name: list, role: close, attrs: {rend: no-marker}}
   back: []
-hash: sha256:a5cc7fdbecc6c76fd83349e08c9f1628a2898b31703118056b0bfe57a3166eac
+hash: sha256:73fb7050dc0d4bb85451cce8cd26c653e56ee585b35add40daf081368a66d323
